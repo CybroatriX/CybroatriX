@@ -178,9 +178,7 @@ Currently exploring:
 <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-<a href="https://github.com/Stebin777">
-<img src="https://img.shields.io/badge/Founder-Stebin777-181717?style=for-the-badge&logo=github">
-</a>
+
 
 </p>
 
